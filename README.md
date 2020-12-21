@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi Github, welcome to my Github. I'm a professional meme
+### 
+Catch me..
+🎮 Gaming. I play all the mainstream games, but my true passion is indie switch games, so I have no money.
+💻 Coding. Well this is Github. White hat hacker(for the most part).
+🎹 Practicing piano. Help a short middle-aged woman forces me to do this every day pls send help
+🙃 Panicking and calm at the same time.
+⚽⛷️🧗 My main sports are soccer, skiing, and rock climbing. 
+Active Idea: Among Us Bot (for desktop) that is controlled by the movements of my Roomba. Normal screen scrape for the most part 
+except the crewmate goes wherever the Roomba goes. The only problem is, if it's impostor, it's gonna look kinda sus
 <!--
 **sherlocknomes/sherlocknomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
