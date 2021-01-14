@@ -15,7 +15,7 @@ Catch me..
 Active Idea: Among Us Bot (for desktop) that is controlled by the movements of my Roomba. Normal screen scrape for the most part 
 except the crewmate goes wherever the Roomba goes. The only problem is, if it's impostor, it's gonna look kinda sus
 
-Participating in @ThetaHacks
+
 <!--
 **sherlocknomes/sherlocknomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
