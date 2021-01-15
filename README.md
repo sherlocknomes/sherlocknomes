@@ -10,7 +10,7 @@ Catch me..
 
 🙃 Panicking and calm at the same time.
 
-⚽⛷️🧗 My main sports are soccer, skiing, and rock climbing. 
+⚽ SOCCCAAAAAA MATESSSSS
 
 Active Idea: Among Us Bot (for desktop) that is controlled by the movements of my Roomba. Normal screen scrape for the most part 
 except the crewmate goes wherever the Roomba goes. The only problem is, if it's impostor, it's gonna look kinda sus
