@@ -4,6 +4,7 @@
 I do hacc(the mildly destructive kind) and contribute to open source
 
 Catch me..
+
 🎮 Gaming. I play all the mainstream games, but my true passion is indie switch games, so I have no money.
 
 💻 Coding. Well this is Github. White hat hacker(for the most part).
