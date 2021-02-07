@@ -2,6 +2,7 @@
 ### 
 
 I do hacc(the mildly destructive kind) and contribute to open source
+Also noob game dev
 
 Catch me..
 
@@ -16,12 +17,9 @@ Catch me..
 ⚽ SOCCCAAAAAA MATESSSSS
 
 
-Building an app for ThetaHacks, go check it out!
+Building an app for ThetaHacks, go check it out! lol this died, onto another project
 
 
-
-Active Idea: Among Us Bot (for desktop) that is controlled by the movements of my Roomba. Normal screen scrape for the most part 
-except the crewmate goes wherever the Roomba goes. The only problem is, if it's impostor, it's gonna look kinda sus
 <!--
 **sherlocknomes/sherlocknomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
