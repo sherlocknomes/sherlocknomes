@@ -2,13 +2,14 @@
 ### 
 
 I do hacc(the mildly destructive kind) and contribute to open source
+
 Also noob game dev
+
 White hat hacker
-Programmer for 1351 TKO, a FRC team
 
-Building an app for ThetaHacks, go check it out! lol this died, onto another project
+Programmer for 1351 TKO, an FRC team
 
-
+### LIVE PROJECT: website
 <!--
 **sherlocknomes/sherlocknomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
