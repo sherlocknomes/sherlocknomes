@@ -5,7 +5,7 @@ I do hacc(the mildly destructive kind) and contribute to open source
 
 Also noob game dev
 
-White hat hacker
+White hat hacker test
 
 Programmer for 1351 TKO, an FRC team
 
