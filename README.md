@@ -1,6 +1,4 @@
-### Hi Github, welcome to my Github. I'm a professional meme
-### 
-
+### Hi, my name is Naomi
 
 
 Programmer for 1351 TKO, an FRC team
