@@ -1,9 +1,8 @@
-### Hi, my name is Naomi
+### hii my name is naomi
 
 
-Programmer for 1351 TKO, an FRC team
 
-### LIVE PROJECT: website
+
 <!--
 **sherlocknomes/sherlocknomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
